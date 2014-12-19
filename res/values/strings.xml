@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoBang</string>
+    <string name="hello">Welcome to Go Bang</string>
+    <string name="help">Help</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="helpinfo1">Gobang is a very old two-player board game with subtle tactics and strategies. It comes from Ancient China and is a professional variant of Go-Moku. Gomoku is traditionally played with Go pieces (black and white stones) on a go board. Black plays first, and players alternate in placing a stone of their color on an empty intersection. The winner is the first player to get an unbroken row of five stones horizontally, vertically, or diagonally.</string>
+    <string name="intro">Introduction</string>
+    <string name="restart">Restart</string>
+    <string name="undo">Undo</string>
+    <string name="playmusic">Play Music</string>
+    <string name="stopmusic">Stop Music</string>
+    <string name="backgroundcolor">BG Color</string>
+
+</resources>
